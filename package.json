@@ -1,0 +1,22 @@
+{
+  "name": "my_landing_page",
+  "version": "1.0.0",
+  "description": "fitnes site",
+  "main": "index.js",
+  "scripts": {
+    "test": "https://github.com/Geowolf-sino/My-Fitness-Site.git"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Geowolf-sino/My-Fitness-Site.git"
+  },
+  "author": "Nuradil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Geowolf-sino/My-Fitness-Site/issues"
+  },
+  "homepage": "https://github.com/Geowolf-sino/My-Fitness-Site#readme",
+  "devDependencies": {
+    "json-server": "^0.17.0"
+  }
+}
